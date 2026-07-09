@@ -32,6 +32,33 @@ public class FindLargestUsingLoopAndStreams {
     }
 }
 
+
+//Note:= Question:
+//Find Largest Element
+//
+//Pattern Used:
+//✅ Array Traversal (Linear Scan)
+//
+//Data Structure:
+//Array
+//
+//Algorithm:
+//Compare and Update
+//
+//Time Complexity:
+//O(n)
+//
+//Space Complexity:
+//O(1)
+//
+//Real Project:
+//Find Highest Salary
+//Find Maximum Order Amount
+//Find Highest Marks
+//
+//Interview Level:
+//Easy
+
 //"I made the method static because it doesn't depend on any object-specific data or instance variables.
 // It only processes the input array passed as a parameter. Since main() is also static,
 // making the helper method static allows me to call it directly without creating an unnecessary object."
