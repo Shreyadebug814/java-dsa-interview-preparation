@@ -62,3 +62,10 @@ public class FindLargestUsingLoopAndStreams {
 //"I made the method static because it doesn't depend on any object-specific data or instance variables.
 // It only processes the input array passed as a parameter. Since main() is also static,
 // making the helper method static allows me to call it directly without creating an unnecessary object."
+
+
+
+
+//An array is a data structure used to store multiple values of the same data type in a single variable.
+// The elements are stored in contiguous memory locations,
+// and each element can be accessed using its index. In Java, array indexing starts from 0."
