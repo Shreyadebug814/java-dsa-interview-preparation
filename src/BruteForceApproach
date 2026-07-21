@@ -1,0 +1,31 @@
+Simplest and starightforward solution, even if it is not the fastest
+
+Imagine your teacher asks:
+
+"Who got the second highest marks?"
+
+One way is:
+
+Write all marks on paper.
+Sort them.
+Pick the second highest.
+
+This works.
+
+But is it the fastest?
+
+❌ No.
+
+It does extra work by sorting everything.
+
+That is called a brute-force approach.
+
+
+
+Interviewer:
+
+"Can you solve this problem?"
+
+You can answer:
+
+"Yes. The simplest brute-force approach is to sort the array and then scan backward to find the first element different from the largest. This has a time complexity of O(n log n). However, it is not the most efficient solution because sorting is unnecessary when we only need the second largest element. We can optimize it to O(n) by traversing the array once while maintaining largest and secondLargest."

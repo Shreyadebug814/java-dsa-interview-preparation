@@ -2,7 +2,7 @@ package arrays;
 
 import java.util.Arrays;
 
-public class FindLargestUsingLoopAndStreams {
+public class    FindLargestUsingLoopAndStreams {
     public static void main(String[] args){
         int[] arr = {10,5,20,8,15};
         int largestUsingLoop = findLargestUsingLoop(arr);
